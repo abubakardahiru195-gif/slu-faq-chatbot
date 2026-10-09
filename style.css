@@ -56,5 +56,6 @@ button:hover {
 
 #chat p {
     text-align: left;
-    padding: 8px;
+    padding
+        : 8px;
 }
