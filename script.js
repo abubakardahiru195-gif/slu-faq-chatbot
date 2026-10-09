@@ -23,7 +23,7 @@ const faqs = [
 
 function sendMessage() {
     const input = document.getElementById("userInput");
-    const chat = document.getElementById("chat");
+    const chat = document.getElementById("chatbox");
 
     const question = input.value.trim();
 
